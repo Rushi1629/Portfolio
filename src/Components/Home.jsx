@@ -21,8 +21,7 @@ const Home = () => {
                     Rushikesh Bhor
                   </h2>
                   <p>
-                    I'm creative designer based in USA, and I'm <br /> very
-                    passionate and dedicated to my work. Say Hello
+                    I build fast, responsive, <br /> and user-friendly web interfaces. Say Hello
                   </p>
                 </div>
                 <div className="profile-grid">
