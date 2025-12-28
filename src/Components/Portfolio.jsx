@@ -27,8 +27,30 @@ const Portfolio = () => {
                   <h2>
                     <a
                       href="https://weather-forecast-three-pearl.vercel.app/"
+                      target="_blank"
                     >
-                      May 2025 - May 2025
+                      May 2025
+                    </a>
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-lg-6 item-center">
+            <div className="portfolio-style-one mt-0">
+              <div className="thumb-zoom">
+                <img src="/assets/img/gallery/market_mantra.jpeg" alt="Image Not Found" />
+              </div>
+              <div className="pf-item-info">
+                <div className="content-info">
+                  <span>Market Mantra</span>
+                  <h2>
+                    <a
+                      href="https://company-website-iota-one.vercel.app/"
+                      target="_blank"
+                    >
+                      Dec 2025
                     </a>
                   </h2>
                 </div>
@@ -39,18 +61,17 @@ const Portfolio = () => {
           <div className="col-lg-6 item-center">
             <div className="portfolio-style-one">
               <div className="thumb-zoom">
-                <img src="assets/img/portfolio/2.jpg" alt="Image Not Found" />
+                <img src="/assets/img/gallery/sonari.png" alt="Image Not Found" />
               </div>
               <div className="pf-item-info">
                 <div className="content-info">
-                  <span>Creative</span>
+                  <span>Sonari Training</span>
                   <h2>
                     <a
-                      href="#"
-                      data-bs-toggle="modal"
-                      data-bs-target="#projectSingleModal"
+                      href="https://sonaritraining.com/index.html"
+                      target="_blank"
                     >
-                      Quality in industrial design
+                      Jan 2025
                     </a>
                   </h2>
                 </div>
@@ -61,18 +82,17 @@ const Portfolio = () => {
           <div className="col-lg-6 item-center">
             <div className="portfolio-style-one">
               <div className="thumb-zoom">
-                <img src="assets/img/portfolio/3.jpg" alt="Image Not Found" />
+                <img src="/assets/img/gallery/avsarkars.png" alt="Image Not Found" />
               </div>
               <div className="pf-item-info">
                 <div className="content-info">
-                  <span>Design</span>
+                  <span>Avasarkars</span>
                   <h2>
                     <a
-                      href="#"
-                      data-bs-toggle="modal"
-                      data-bs-target="#projectSingleModal"
+                      href="https://avasarkars.com/index.html"
+                      target="_blank"
                     >
-                      Blue business mockup cards
+                      Mar 2025
                     </a>
                   </h2>
                 </div>
@@ -83,24 +103,25 @@ const Portfolio = () => {
           <div className="col-lg-6 item-center">
             <div className="portfolio-style-one">
               <div className="thumb-zoom">
-                <img src="assets/img/portfolio/4.jpg" alt="Image Not Found" />
+                <img src="/assets/img/gallery/yt-clone.png" alt="Image Not Found" />
               </div>
               <div className="pf-item-info">
                 <div className="content-info">
-                  <span>Business</span>
+                  <span>Youtube Clone</span>
                   <h2>
                     <a
-                      href="#"
-                      data-bs-toggle="modal"
-                      data-bs-target="#projectSingleModal"
+                      href="https://youtube-clone-fgrkgw2lx-rushi1629s-projects.vercel.app/"
+                      target="_blank"
                     >
-                      Simple black & white design{" "}
+                      Mar 2024
                     </a>
                   </h2>
                 </div>
               </div>
             </div>
           </div>
+
+
         </div>
       </div>
 

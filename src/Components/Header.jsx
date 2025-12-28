@@ -13,8 +13,8 @@ const Header = () => {
                             <i className="fa fa-bars"></i>
                         </button>
                         <a className="navbar-brand smooth-menu" href="#home">
-                            <img src="assets/img/logo-light.png" className="logo logo-display" alt="Logo"/>
-                                <img src="assets/img/logo.png" className="logo logo-scrolled" alt="Logo"/>
+                            <img src="assets/img/brand/logo2.png" className="logo logo-display" alt="Logo"/>
+                                <img src="assets/img/brand/logo.png" className="logo logo-scrolled" alt="Logo"/>
                                 </a>
                             </div>
 
