@@ -20,7 +20,7 @@ const Header = () => {
 
                             <div className="collapse navbar-collapse" id="navbar-menu">
 
-                                <img src="assets/img/logo.png" alt="Logo"/>
+                                <img src="assets/img/brand/logo2.png" alt="Logo"/>
                                     <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                                         <i className="fa fa-times"></i>
                                     </button>
