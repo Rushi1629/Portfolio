@@ -16,7 +16,7 @@ const Contact = () => {
                                 <h2 className="gradient-text">Let's Talk</h2>
                                 <div className="call">
                                     <img src="assets/img/icon/call.png" alt="Image not Found" />
-                                    <a className="phone-link" href="tel:+4733378901">
+                                    <a className="phone-link" href="tel:8689901612">
                                         +91 8689901612
                                     </a>
                                 </div>
@@ -33,7 +33,7 @@ const Contact = () => {
                                 <li>
                                     <div className="info">
                                         <h4>Official Email</h4>
-                                        <a href="mailto:info@digital.com.com">rushikeshbhor1629@gmail.com</a>
+                                        <a href="mailto:rushikeshbhor1629@gmail.com">rushikeshbhor1629@gmail.com</a>
                                     </div>
                                 </li>
                             </ul>
@@ -44,7 +44,7 @@ const Contact = () => {
                     <div className="col-tact-stye-one col-lg-7 pl-60 pl-md-15 pl-xs-15 mt-md-50 mt-xs-50">
                         <div className="contact-form-style-one">
                             <form
-                                action="https://validthemes.net/site-template/ventix/assets/mail/contact.php"
+                                action=""
                                 method="POST"
                                 className="contact-form contact-form mt-30"
                             >
